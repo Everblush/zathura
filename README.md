@@ -10,3 +10,7 @@
 ```
 git clone https://github.com/Everblush/zathura ~/.config/zathura
 ```
+
+## Credits 
+
+- (siduck)[https://github.com/siduck]
